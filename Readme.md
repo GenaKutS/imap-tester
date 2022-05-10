@@ -1,3 +1,3 @@
 # imap-tester
-Student: Kuts Gena 
+Student: Kuts Gena |
 Grup: Ik-92
